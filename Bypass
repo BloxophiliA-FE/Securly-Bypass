@@ -18,6 +18,7 @@
             padding: 10px;
             font-weight: bold;
             cursor: pointer;
+            border: 10px;
         }
         
         .shown {
